@@ -1,0 +1,15 @@
+name: .prompt.md
+description: Reusable prompt template files for AI coding assistants, defining task-specific
+  instructions that can be executed from chat interfaces. Used for standardizing common
+  development tasks like code review, refactoring, and test generation.
+url: ''
+tags:
+- AI Copilot
+- Prompt Engineering
+- Developer Workflow
+- Templates
+- Automation
+created: '2025'
+modified: '2025'
+apis: []
+common: []

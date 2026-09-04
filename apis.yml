@@ -23,6 +23,7 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/prompt-md.png
 name: .Prompt.md
+x-type: convention
 description: Reusable prompt template files for AI coding assistants, defining task-specific instructions that can be executed from chat interfaces. Used for standardizing common development tasks like code review, refactoring, and test generation.
 type: Index
 url: https://raw.githubusercontent.com/api-evangelist/prompt-md/refs/heads/main/apis.yml
